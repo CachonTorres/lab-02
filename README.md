@@ -1,1 +1,11 @@
-# lab-02
+# CMPUT 301: Lab 2 Participation Exercise
+
+## Student Details
+- **Full Name:** `Arturo Cachon Torres`
+- **CCID** `CACHONTO`
+
+## References and Resources
+N/A
+
+## Verbal Collaboration
+N/A
